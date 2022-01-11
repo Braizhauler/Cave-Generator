@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/cavetest2d.unity
+  isLoaded: 1
+  isActive: 1
